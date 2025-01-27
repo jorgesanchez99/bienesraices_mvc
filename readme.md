@@ -1,7 +1,3 @@
-Tu README es bastante completo, pero hay algunos detalles que podrían mejorar la claridad, la gramática y la estructura. Aquí tienes una versión revisada con algunos ajustes:
-
----
-
 # Bienes Raíces Inicio
 
 Este es un proyecto de práctica en PHP utilizando Programación Orientada a Objetos (POO) con el patrón de arquitectura MVC. La aplicación web permite gestionar propiedades inmobiliarias de manera eficiente.
